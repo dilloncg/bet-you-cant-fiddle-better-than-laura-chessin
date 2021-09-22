@@ -2,6 +2,14 @@ body{
   background-image: url("laura.jpg");
 }
 
+h1{
+  font: 300px helvetica;
+  text-align: center;
+  color: red;
+  background: white;
+  opacity: 0.5;
+}
+
 img{
   width: 100%;
 }
